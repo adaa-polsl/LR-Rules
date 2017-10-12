@@ -22,7 +22,7 @@ DOI: 10.1186/s12859-017-1693-x.
 * Melanoma (malignant melanoma patients after radical operation): riskRegression R package
 * mgus (patients with monoclonal gammopathy of undetermined significance): survival R package
 * pbc (primary biliary cirrhosis of the liver): survival R package
-* PTC (papillary thyroid carcinoma): [https://github.com/adaa-polsl/LR-Rules/data/thyroid.arff](https://github.com/adaa-polsl/LR-Rules/data/thyroid.arff)
+* PTC (papillary thyroid carcinoma): [https://github.com/adaa-polsl/LR-Rules/blob/master/data/thyroid.arff](https://github.com/adaa-polsl/LR-Rules/blob/master/data/thyroid.arff)
 * std (occurrence of sexually transmitted diseases): KMsurv R package
 * uis (drug abuse reduction): quantreg R package
 * wcgs (occurrence of coronary heart disease): epitools R package
