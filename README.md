@@ -4,7 +4,7 @@ An algorithm for learning rule sets from survival data
 ## Installation and usage
 Please see the Release tab to download software and user's manual. 
 
-## Citation
+## Citing
 
 [Wrobel, L, Gudys, A, Sikora, M (2017) Learning rule sets from survival data, BMC Bioinformatics, 2017 May 30;18(1):285.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1693-x) 
 DOI: 10.1186/s12859-017-1693-x.
