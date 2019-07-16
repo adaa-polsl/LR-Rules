@@ -12,7 +12,7 @@ DOI: 10.1186/s12859-017-1693-x.
 ## Data availability
 
 * actg320 (HIV-infected patients): [ftp://ftp.wiley.com/public/sci_tech_med/survival](ftp://ftp.wiley.com/public/sci_tech_med/survival)
-* BMT-Ch (bone marrow transplant): available on request (lukasz.wrobel@polsl.pl)
+* BMT-Ch (bone marrow transplant): https://github.com/adaa-polsl/GuideR/blob/master/datasets/bmt/bone-marrow.arff
 * cancer (advanced lung cancer patients): survival R package
 * follic (follicular cell lymphoma patients): randomForestSRC R package
 * GBSG2 (node-positive breast cancer patients): TH.data R package
