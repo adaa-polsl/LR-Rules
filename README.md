@@ -3,7 +3,7 @@ An algorithm for learning rule sets from survival data
 
 ## Installation and usage
 
-UPDATE: LR-rules is now the part of [RuleKit](https://github.com/adaa-polsl/RuleKit) - our comprehensive suite for rule-based learning. Please use RuleKit for your analyses.
+UPDATE: LR-rules is now the part of [RuleKit](https://github.com/adaa-polsl/RuleKit) - our comprehensive suite for rule-based learning. We suggest using RuleKit for analyses as we constatly improve its functionality and keep it up to date.
 
 
 ## Citing
